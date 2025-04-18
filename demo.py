@@ -9,3 +9,8 @@ for i in str1:
 count=0
 while count < 10:
     print("git hub")
+
+
+count=0
+while count < 12:
+    print("this is loop")
