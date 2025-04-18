@@ -14,3 +14,13 @@ while count < 10:
 count=0
 while count < 12:
     print("this is loop")
+
+
+if 2<1:
+    print("if")
+
+elif 2>1:
+    print("elif")
+
+else:
+    print("else")
